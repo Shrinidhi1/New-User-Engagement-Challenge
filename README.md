@@ -14,3 +14,6 @@ Zindi hosts the largest community of African data scientists, working to solve t
 most pressing challenges using machine learning and AI. It connects data scientists with
 organisations, and provides a place to learn, hone your skills and find a job. <br>
 Competition link: https://zindi.africa/competitions/zindi-new-user-engagement-prediction-challenge
+
+## Ranking
+Currently at rank 40 out of 972
