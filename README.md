@@ -16,4 +16,4 @@ organisations, and provides a place to learn, hone your skills and find a job. <
 Competition link: https://zindi.africa/competitions/zindi-new-user-engagement-prediction-challenge
 
 ## Ranking
-Currently at rank 82/1200
+Rank 82/1200
