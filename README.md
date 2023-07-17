@@ -1,7 +1,7 @@
 # New-User-Engagement-Challenge
 
 ##  Problem Definition
-To build a model that, given data of the user activity of month of sign up, can predict
+To build a model that, given data of the user activity of a month, can predict
 user activity for the upcoming month.
 
 ##  Objectives
